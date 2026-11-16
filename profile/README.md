@@ -4,17 +4,16 @@
 
 Développeur web et intégrateur depuis plus de 15 ans, basé dans le Lot-et-Garonne, en remote partout en France.
 
-### 🛒 PrestaShop
-Modules et thèmes sur mesure, migrations de version, maintenance, performance.
+### PrestaShop
+Boutiques sur-mesure, developpement de modules, migrations de version, maintenance, performance.
 
-### 🧩 Intégration front
-HTML, CSS / SASS / LESS, JavaScript : des maquettes Figma restituées au pixel près, en version responsive et accessible.
+### Developpement web - intégration
+Sites web en HTML, CSS / SASS / LESS, JavaScript  - en version responsive et accessible.
+Applications métier sur-mesure 
 
-### 🛠️ Support technique
+### Support technique
 Serveurs Linux, hébergement, mails et délivrabilité, réseau.
 
 ---
 
-**Stack** · PHP · PrestaShop · HTML · SASS / LESS · JavaScript / jQuery · Apache / Debian · Git
-
-📫 [manulasnier.com](https://manulasnier.com) · [LinkedIn](https://www.linkedin.com/company/manulasnier)
+**Stack** · PHP · Smarty · HTML · SASS / LESS · JavaScript · Apache
